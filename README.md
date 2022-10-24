@@ -1,6 +1,6 @@
 ## Oiii eu sou a Vivian,desenvolvedora Full Stack em formação.
 
-<div align="center">
+<div>
   <a href="https://github.com/viviangcastro1012">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viviangcastro1012&show_icons=false&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viviangcastro1012&layout=compact&langs_count=7&theme=dracula"/>
@@ -15,13 +15,10 @@
   <img align="center" alt="Vivi-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Vivi-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Vivi-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-               
-          
+                        
   </div>
   
   ##
-
- <br>
   
   <h4>Contatos:</h4> 
 <div> 
